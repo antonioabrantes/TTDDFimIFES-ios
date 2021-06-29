@@ -1,0 +1,2788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <id>1</id>
+        <symbol>100</symbol>
+        <assunto> </assunto>
+        <observacoes>ENSINO SUPERIOR</observacoes>
+    </row>
+    <row>
+        <id>2</id>
+        <symbol>110</symbol>
+        <assunto> </assunto>
+        <observacoes>Normatização. Regulamentação,Incluem-se documentos referentes à concepção, organização e funcionamento do ensino superior.</observacoes>
+    </row>
+    <row>
+        <id>3</id>
+        <symbol>120</symbol>
+        <assunto> </assunto>
+        <observacoes>Cursos de graduação (inclusive na modalidade a distância)</observacoes>
+    </row>
+    <row>
+        <id>4</id>
+        <symbol>121</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento dos cursos de graduação</observacoes>
+    </row>
+    <row>
+        <id>5</id>
+        <symbol>121.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico dos cursos,Incluem-se documentos referentes à concepção do ensino e aprendizagem dos cursos contendo a definição das características gerais do projeto, os fundamentos teórico-metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>6</id>
+        <symbol>121.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Criação de cursos. Conversão de cursos</observacoes>
+    </row>
+    <row>
+        <id>7</id>
+        <symbol>121.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Autorização. Reconhecimento. Renovação de reconhecimento</observacoes>
+    </row>
+    <row>
+        <id>8</id>
+        <symbol>121.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Desativação de cursos. Extinção de cursos</observacoes>
+    </row>
+    <row>
+        <id>9</id>
+        <symbol>122</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>10</id>
+        <symbol>122.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Estrutura do currículo (grade ou matriz curricular)</observacoes>
+    </row>
+    <row>
+        <id>11</id>
+        <symbol>122.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular,Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos.,Para as instituições em que a reformulação curricular estiver incluída no projeto pedagógico dos cursos, classificar no código 121.1.</observacoes>
+    </row>
+    <row>
+        <id>12</id>
+        <symbol>122.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: programas didáticos,Incluem-se conteúdos programáticos, ementas das disciplinas e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>13</id>
+        <symbol>122.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Oferta de disciplinas,Incluem-se quadros ou mapas de ofertas de disciplinas (obrigatórias, isoladas, optativas e eletivas, inclusive estágios curriculares, obrigatórios e supervisionados) e documentos referentes à alocação ou distribuição de encargos didáticos, atribuição de disciplinas a docentes, cancelamento de disciplinas e horários de aula.</observacoes>
+    </row>
+    <row>
+        <id>14</id>
+        <symbol>122.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Atividades complementares,Incluem-se documentos referentes ao planejamento das atividades internas e a definição das atividades externas, que complementam os cursos de graduação e que sejam autorizadas pela instituição de ensino.</observacoes>
+    </row>
+    <row>
+        <id>15</id>
+        <symbol>123</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade acadêmica</observacoes>
+    </row>
+    <row>
+        <id>16</id>
+        <symbol>123.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Calendário acadêmico,Incluem-se documentos referentes à determinação ou fixação do calendário acadêmico, bem como dos períodos letivos complementares, intermediários e dos cursos de férias e de verão.</observacoes>
+    </row>
+    <row>
+        <id>17</id>
+        <symbol>123.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Agenda acadêmica. Guia do calouro. Guia do estudante. Manual do estudante</observacoes>
+    </row>
+    <row>
+        <id>18</id>
+        <symbol>124</symbol>
+        <assunto> </assunto>
+        <observacoes>Colação de grau. Formatura,Incluem-se documentos referentes à organização da formatura e da solenidade de imposição ou colação de grau, lista de formandos e exemplar do convite, bem como o requerimento para colação de grau.</observacoes>
+    </row>
+    <row>
+        <id>19</id>
+        <symbol>124.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Termo ou ata de colação de grau</observacoes>
+    </row>
+    <row>
+        <id>20</id>
+        <symbol>125</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida acadêmica dos alunos dos cursos de graduação</observacoes>
+    </row>
+    <row>
+        <id>21</id>
+        <symbol>125.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>22</id>
+        <symbol>125.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção (vestibular),Nas subdivisões desse descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>23</id>
+        <symbol>125.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos das provas (cadernos de provas), gabaritos (cartões-resposta e cartões do avaliador), critérios de correção das provas e guia do vestibulando.</observacoes>
+    </row>
+    <row>
+        <id>24</id>
+        <symbol>125.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições,Incluem-se fichas de inscrição, questionário socioeconômico, solicitação de isenção de pagamento de taxa de inscrição, declaração para o sistema de cotas, resultado do Exame Nacional do Ensino Médio (ENEM), confirmação ou correção de dados cadastrais, boletim informativo e estatística da relação candidato/vaga.</observacoes>
+    </row>
+    <row>
+        <id>25</id>
+        <symbol>125.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas,Incluem-se laudo dactiloscópico, identificação digital, frequência do candidato, cronograma de atividades, relação de candidatos ausentes, inscrições extraviadas, controle de parentes de aplicadores de provas, termo de abertura de envelope, termo de compromisso, ata de sala, ata de coordenação, dados cadastrais dos candidatos para o Departamento de Polícia Federal (DPF) e relatório de fraudadores.</observacoes>
+    </row>
+    <row>
+        <id>26</id>
+        <symbol>125.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados pelos candidatos, folhas de resposta e avaliação de habilidades específicas.</observacoes>
+    </row>
+    <row>
+        <id>27</id>
+        <symbol>125.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação, aos relatórios de estatística e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>28</id>
+        <symbol>125.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>29</id>
+        <symbol>125.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Reingresso. Admissão de graduado. Portador de diploma. Obtenção de novo título,Incluem-se editais, inscrições, documentos referentes ao processo de seleção (provas e análise de currículos) e resultados.</observacoes>
+    </row>
+    <row>
+        <id>30</id>
+        <symbol>125.13</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência</observacoes>
+    </row>
+    <row>
+        <id>31</id>
+        <symbol>125.131</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência voluntária ou facultativa,Incluem-se documentos referentes ao processo de seleção para ingresso extravestibular como definição de vagas, publicação de editais, controle e aplicação de provas, correção, recursos e resultados.</observacoes>
+    </row>
+    <row>
+        <id>32</id>
+        <symbol>125.132</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência ex officio,Incluem-se documentos referentes à transferência compulsória ou obrigatória em razão de legislação específica.</observacoes>
+    </row>
+    <row>
+        <id>33</id>
+        <symbol>125.14</symbol>
+        <assunto> </assunto>
+        <observacoes>Reopção de curso. Mudança de curso. Transferência interna,Incluem-se documentos referentes aos processos de reopção de curso, mudança de curso e transferência interna como definição de vagas, publicação de editais, controle e aplicação de provas, correção, recursos e resultados.</observacoes>
+    </row>
+    <row>
+        <id>34</id>
+        <symbol>125.19</symbol>
+        <assunto> </assunto>
+        <observacoes>Outras formas de ingresso,Ordenar por: aluno convênio rede pública, aluno especial, aluno visitante, continuidade de estudos, mandado judicial, matrícula de cortesia, readmissão, refugiados políticos, reintegração, revinculação</observacoes>
+    </row>
+    <row>
+        <id>35</id>
+        <symbol>125.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registros acadêmicos</observacoes>
+    </row>
+    <row>
+        <id>36</id>
+        <symbol>125.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula. Registro,Incluem-se documentos referentes ao processo de cadastramento inicial do aluno para estabelecer sua vinculação à instituição e ao seu respectivo curso.</observacoes>
+    </row>
+    <row>
+        <id>37</id>
+        <symbol>125.22</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição em disciplinas. Matrícula semestral em disciplina,Incluem-se documentos referentes ao ordenamento, encomenda e correção de matrícula, troca ou mudança de turma e turno, matrícula sem disciplina, solicitações especiais de matrícula e rematrícula, reabertura, recondução e cancelamento de matrícula em disciplinas, transferência de pólo.</observacoes>
+    </row>
+    <row>
+        <id>38</id>
+        <symbol>125.23</symbol>
+        <assunto> </assunto>
+        <observacoes>Isenção de disciplinas. Dispensa de disciplinas. Aproveitamento de estudos</observacoes>
+    </row>
+    <row>
+        <id>39</id>
+        <symbol>125.24</symbol>
+        <assunto> </assunto>
+        <observacoes>Trancamento</observacoes>
+    </row>
+    <row>
+        <id>40</id>
+        <symbol>125.241</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplina. Matrícula parcial,Incluem-se documentos referentes à solicitação de trancamento de matrícula em uma ou mais disciplinas, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>41</id>
+        <symbol>125.242</symbol>
+        <assunto> </assunto>
+        <observacoes>Total de curso. Matrícula total,Incluem-se documentos referentes à solicitação de trancamento total de matrícula do curso, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>42</id>
+        <symbol>125.25</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligamento</observacoes>
+    </row>
+    <row>
+        <id>43</id>
+        <symbol>125.251</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligamento. Abandono de curso</observacoes>
+    </row>
+    <row>
+        <id>44</id>
+        <symbol>125.252</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligamento. Jubilação</observacoes>
+    </row>
+    <row>
+        <id>45</id>
+        <symbol>125.253</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligammento. Recusa de matrícula</observacoes>
+    </row>
+    <row>
+        <id>46</id>
+        <symbol>125.26</symbol>
+        <assunto> </assunto>
+        <observacoes>Prorrogação de prazo para conclusão do curso</observacoes>
+    </row>
+    <row>
+        <id>47</id>
+        <symbol>125.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>48</id>
+        <symbol>125.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos,Incluem-se provas, exames e trabalhos (inclusive verificações suplementares), realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>49</id>
+        <symbol>125.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Trabalho de conclusão de curso. Trabalho final de curso,Incluem-se monografias, artigos científicos e relatórios, entre outros trabalhos elaborados na finalização dos cursos.</observacoes>
+    </row>
+    <row>
+        <id>50</id>
+        <symbol>125.321</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de orientador e co-orientador</observacoes>
+    </row>
+    <row>
+        <id>51</id>
+        <symbol>125.322</symbol>
+        <assunto> </assunto>
+        <observacoes>Bancas examinadoras: indicação e atuação,Incluem-se portarias de indicação das bancas examinadoras e as atas resultantes de sua atuação.</observacoes>
+    </row>
+    <row>
+        <id>52</id>
+        <symbol>125.323</symbol>
+        <assunto> </assunto>
+        <observacoes>Prorrogação de prazo para entrega e apresentação</observacoes>
+    </row>
+    <row>
+        <id>53</id>
+        <symbol>125.33</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro de conteúdo programático ministrado, rendimento e frequência,Incluem-se diários de classe, listas de frequência ou presença, relação de conceitos e notas, resumo semestral, mapa de apuração de frequência e notas.</observacoes>
+    </row>
+    <row>
+        <id>54</id>
+        <symbol>125.34</symbol>
+        <assunto> </assunto>
+        <observacoes>Distinção acadêmica e mérito,Incluem-se documentos referentes à indicação, solicitação e concessão de prêmios e de láurea ao aluno destaque.</observacoes>
+    </row>
+    <row>
+        <id>55</id>
+        <symbol>125.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>56</id>
+        <symbol>125.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar. Integralização curricular</observacoes>
+    </row>
+    <row>
+        <id>57</id>
+        <symbol>125.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de diploma</observacoes>
+    </row>
+    <row>
+        <id>58</id>
+        <symbol>125.421</symbol>
+        <assunto> </assunto>
+        <observacoes>Expedição,Incluem-se documentos referentes à solicitação de expedição do diploma.</observacoes>
+    </row>
+    <row>
+        <id>59</id>
+        <symbol>125.422</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro,Incluem-se documentos referentes aos procedimentos de registro do diploma que poderá ser feito em livros, folhas avulsas ou por meio de impressão eletrônica.</observacoes>
+    </row>
+    <row>
+        <id>60</id>
+        <symbol>125.423</symbol>
+        <assunto> </assunto>
+        <observacoes>Apostila,Incluem-se documentos referentes ao apostilamento ao diploma de outra(s) habilitação(ões) que poderá ser feito em livros, folhas avulsas ou por meio de impressão eletrônica.</observacoes>
+    </row>
+    <row>
+        <id>61</id>
+        <symbol>125.424</symbol>
+        <assunto> </assunto>
+        <observacoes>Reconhecimento e revalidação,Incluem-se documentos referentes à solicitação de reconhecimento e revalidação de diplomas expedidos por instituições de ensino superior no exterior.</observacoes>
+    </row>
+    <row>
+        <id>62</id>
+        <symbol>125.425</symbol>
+        <assunto> </assunto>
+        <observacoes>Verificação de autenticidade,Incluem-se documentos referentes à solicitação de verificação de autenticidade de diploma pelo Departamento de Polícia Federal (DPF), conselhos profissionais e outros órgãos públicos.</observacoes>
+    </row>
+    <row>
+        <id>63</id>
+        <symbol>125.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da identidade, do CPF, da certidão de nascimento ou casamento, do certificado de quitação com o serviço militar, do título de eleitor, do comprovante de quitação eleitoral, dos atestados de idoneidade moral, de óbito e de saúde física e mental, do comprovante de residência, e do passaporte, se for estrangeiro, além de fotografia do aluno) e documentação acadêmica (boletim semestral, certificado de conclusão do ensino médio, confirmação de colação de grau, convênio cultural, declaração de vaga e desistência de vaga ou curso, cópia do diploma de graduação, quando da admissão de graduado, guia de transferência, histórico escolar, nada consta da biblioteca, procurações, solicitações de atestados, requerimentos, integralização curricular ou lauda e registro das notas).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados documentos pessoais e acadêmicos que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>64</id>
+        <symbol>125.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar</observacoes>
+    </row>
+    <row>
+        <id>65</id>
+        <symbol>125.51</symbol>
+        <assunto> </assunto>
+        <observacoes>Aluna gestante</observacoes>
+    </row>
+    <row>
+        <id>66</id>
+        <symbol>125.52</symbol>
+        <assunto> </assunto>
+        <observacoes>Aluno portador de afecções, infecções e traumatismos</observacoes>
+    </row>
+    <row>
+        <id>67</id>
+        <symbol>125.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias. Estágios não obrigatórios. Programas de iniciação à docência,Nas subdivisões deste descritor classificam-se documentos referentes às solicitações de bolsas individuais de monitorias, nas instituições de apoio e fomento ao ensino e pesquisa, aos estágios não obrigatórios e aos Programas de iniciação à docência.,Para as solicitações de bolsas institucionais referentes à Pesquisa, classificar nas subdivisões dos códigos 220, 230 ou 240, para as referentes à Extensão, classificar nas subdivisões dos códigos 320, 330 ou 380, para os auxílios referentes à assistência estudantil, classificar nas subdivisões da Classe 500.</observacoes>
+    </row>
+    <row>
+        <id>68</id>
+        <symbol>125.61</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias,Incluem-se estudos, propostas, programas e projetos, bem como editais e resultados do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>69</id>
+        <symbol>125.611</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à divulgação, inscrição, provas, entrevistas, listas de inclusão e exclusão.</observacoes>
+    </row>
+    <row>
+        <id>70</id>
+        <symbol>125.612</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de monitor e orientador</observacoes>
+    </row>
+    <row>
+        <id>71</id>
+        <symbol>125.613</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se relatórios parciais e finais, bem como controle de expedição de certificados.</observacoes>
+    </row>
+    <row>
+        <id>72</id>
+        <symbol>125.62</symbol>
+        <assunto> </assunto>
+        <observacoes>Estágios não obrigatórios,Incluem-se documentos referentes ao encaminhamento, acompanhamento e avaliação dos alunos nos estágios não obrigatórios como ficha de avaliação de desempenho, relatórios, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>73</id>
+        <symbol>125.63</symbol>
+        <assunto> </assunto>
+        <observacoes>Programas de iniciação à docência,Incluem-se estudos e propostas referentes aos programas de iniciação, incentivo ou estímulo à docência, bem como editais e resultados do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>74</id>
+        <symbol>125.631</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à divulgação, inscrição, provas, entrevistas e resultados do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>75</id>
+        <symbol>125.632</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de bolsista e orientador</observacoes>
+    </row>
+    <row>
+        <id>76</id>
+        <symbol>125.633</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se relatórios parciais e finais, bem como o controle de expedição de declarações.</observacoes>
+    </row>
+    <row>
+        <id>77</id>
+        <symbol>125.64</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência de monitores, estagiários e bolsistas</observacoes>
+    </row>
+    <row>
+        <id>78</id>
+        <symbol>125.7</symbol>
+        <assunto> </assunto>
+        <observacoes>Mobilidade acadêmica. Mobilidade estudantil. Intercâmbio</observacoes>
+    </row>
+    <row>
+        <id>79</id>
+        <symbol>125.71</symbol>
+        <assunto> </assunto>
+        <observacoes>Nacional,Incluem-se documentos referentes aos beneficiados pelos programas de mobilidade acadêmica ou estudantil e de convênios de intercâmbio entre instituições de ensino superior em âmbito nacional.</observacoes>
+    </row>
+    <row>
+        <id>80</id>
+        <symbol>125.72</symbol>
+        <assunto> </assunto>
+        <observacoes>Internacional,Incluem-se documentos referentes aos beneficiados pelos programas de mobilidade acadêmica ou estudantil e de convênios de intercâmbio entre instituições de ensino superior em âmbito internacional.</observacoes>
+    </row>
+    <row>
+        <id>81</id>
+        <symbol>125.8</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>82</id>
+        <symbol>130</symbol>
+        <assunto> </assunto>
+        <observacoes>Cursos de pós-graduação stricto sensu (inclusive na modalidade a distância),Nas subdivisões deste descritor classificam-se documentos referentes aos cursos de mestrado acadêmico, mestrado profissionalizante, doutorado e pós-doutorado.</observacoes>
+    </row>
+    <row>
+        <id>83</id>
+        <symbol>131</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento dos cursos de pós-graduação stricto sensu</observacoes>
+    </row>
+    <row>
+        <id>84</id>
+        <symbol>131.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico dos cursos,Incluem-se documentos referentes à concepção do ensino e aprendizagem dos cursos contendo a definição das características gerais do projeto, as áreas de concentração e as linhas de pesquisa, os fundamentos teórico-metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>85</id>
+        <symbol>131.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Criação de cursos. Criação de programas</observacoes>
+    </row>
+    <row>
+        <id>86</id>
+        <symbol>131.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Autorização. Reconhecimento. Renovação de reconhecimento</observacoes>
+    </row>
+    <row>
+        <id>87</id>
+        <symbol>131.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Desativação de cursos. Extinção de cursos</observacoes>
+    </row>
+    <row>
+        <id>88</id>
+        <symbol>131.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Credenciamento para orientação,Incluem-se documentos referentes ao credenciamento de orientadores e co-orientadores, internos e externos.</observacoes>
+    </row>
+    <row>
+        <id>89</id>
+        <symbol>132</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>90</id>
+        <symbol>132.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Estrutura do currículo (grade ou matriz curricular)</observacoes>
+    </row>
+    <row>
+        <id>91</id>
+        <symbol>132.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular (inclusive criação de novas áreas de concentração) , Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos. , Para as instituições em que a reformulação curricular estiver incluída no projeto pedagógico dos cursos, classificar no código 131.1.</observacoes>
+    </row>
+    <row>
+        <id>92</id>
+        <symbol>132.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: programas didáticos,Incluem-se conteúdos programáticos, ementas das disciplinas e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>93</id>
+        <symbol>132.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Oferta de disciplinas,Incluem-se quadros ou mapas de ofertas de disciplinas , obrigatórias, optativas e eletivas, inclusive Estágio Docência para alunos bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) , e documentos referentes à alocação ou distribuição de encargos didáticos, atribuição de disciplinas a docentes, cancelamento de disciplinas e horários de aula.</observacoes>
+    </row>
+    <row>
+        <id>94</id>
+        <symbol>133</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade acadêmica,Incluem-se documentos referentes à determinação ou fixação do calendário acadêmico.</observacoes>
+    </row>
+    <row>
+        <id>95</id>
+        <symbol>134</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida acadêmica dos alunos dos cursos de pós-graduação stricto sensu</observacoes>
+    </row>
+    <row>
+        <id>96</id>
+        <symbol>134.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>97</id>
+        <symbol>134.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Nas subdivisões desse descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>98</id>
+        <symbol>134.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos das provas, composição de bancas e critérios de correção das provas.</observacoes>
+    </row>
+    <row>
+        <id>99</id>
+        <symbol>134.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições,Incluem-se fichas de inscrição e os documentos exigidos no edital para sua homologação.</observacoes>
+    </row>
+    <row>
+        <id>100</id>
+        <symbol>134.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas,Incluem-se documentos referentes aos procedimentos de realização das provas como controle de aplicação, frequência do candidato, relação de candidatos ausentes, inscrições extraviadas, termo de abertura de envelope, termo de compromisso e ata de sala.</observacoes>
+    </row>
+    <row>
+        <id>101</id>
+        <symbol>134.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados pelos candidatos e folhas de resposta.</observacoes>
+    </row>
+    <row>
+        <id>102</id>
+        <symbol>134.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>103</id>
+        <symbol>134.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>104</id>
+        <symbol>134.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência,Incluem-se documentos referentes às transferências voluntárias ou facultativas e ex officio.</observacoes>
+    </row>
+    <row>
+        <id>105</id>
+        <symbol>134.13</symbol>
+        <assunto> </assunto>
+        <observacoes>Mudança de nível</observacoes>
+    </row>
+    <row>
+        <id>106</id>
+        <symbol>134.19</symbol>
+        <assunto> </assunto>
+        <observacoes>Outras formas de ingresso,Ordenar por: aluno especial, reintegração</observacoes>
+    </row>
+    <row>
+        <id>107</id>
+        <symbol>134.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registros acadêmicos</observacoes>
+    </row>
+    <row>
+        <id>108</id>
+        <symbol>134.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula. Registro,Incluem-se documentos referentes ao processo de cadastramento inicial do aluno para estabelecer sua vinculação à instituição e ao seu respectivo curso.</observacoes>
+    </row>
+    <row>
+        <id>109</id>
+        <symbol>134.22</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição em disciplinas. Matrícula semestral em disciplinas , Incluem-se documentos referentes à correção de matrícula, solicitações especiais de matrícula, reabertura, recondução e cancelamento de matrícula em disciplinas e transferência de pólo.</observacoes>
+    </row>
+    <row>
+        <id>110</id>
+        <symbol>134.23</symbol>
+        <assunto> </assunto>
+        <observacoes>Isenção de disciplinas. Dispensa de disciplinas. Aproveitamento de estudos</observacoes>
+    </row>
+    <row>
+        <id>111</id>
+        <symbol>134.24</symbol>
+        <assunto> </assunto>
+        <observacoes>Trancamento</observacoes>
+    </row>
+    <row>
+        <id>112</id>
+        <symbol>134.241</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplina. Matrícula parcial,Incluem-se documentos referentes à solicitação de trancamento de matrícula em uma ou mais disciplinas, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>113</id>
+        <symbol>134.242</symbol>
+        <assunto> </assunto>
+        <observacoes>Total de curso. Matrícula total,Incluem-se documentos referentes à solicitação de trancamento total de matrícula do curso, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>114</id>
+        <symbol>134.25</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligamento</observacoes>
+    </row>
+    <row>
+        <id>115</id>
+        <symbol>134.251</symbol>
+        <assunto> </assunto>
+        <observacoes>Abandono de curso</observacoes>
+    </row>
+    <row>
+        <id>116</id>
+        <symbol>134.252</symbol>
+        <assunto> </assunto>
+        <observacoes>Jubilação</observacoes>
+    </row>
+    <row>
+        <id>117</id>
+        <symbol>134.253</symbol>
+        <assunto> </assunto>
+        <observacoes>Recusa de matrícula</observacoes>
+    </row>
+    <row>
+        <id>118</id>
+        <symbol>134.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>119</id>
+        <symbol>134.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos,Incluem-se provas, exames e trabalhos, realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>120</id>
+        <symbol>134.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Exame de qualificação</observacoes>
+    </row>
+    <row>
+        <id>121</id>
+        <symbol>134.321</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de orientador e co-orientador</observacoes>
+    </row>
+    <row>
+        <id>122</id>
+        <symbol>134.322</symbol>
+        <assunto> </assunto>
+        <observacoes>Bancas examinadoras: indicação e atuação,Incluem-se portarias de indicação das bancas examinadoras e as atas resultantes de sua atuação.</observacoes>
+    </row>
+    <row>
+        <id>123</id>
+        <symbol>134.323</symbol>
+        <assunto> </assunto>
+        <observacoes>Prorrogação de prazo para o exame de qualificação</observacoes>
+    </row>
+    <row>
+        <id>124</id>
+        <symbol>134.324</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto de qualificação,Incluem-se projetos e outros trabalhos exigidos ou apresentados para o exame de qualificação no curso de pós-graduação stricto sensu.</observacoes>
+    </row>
+    <row>
+        <id>125</id>
+        <symbol>134.33</symbol>
+        <assunto> </assunto>
+        <observacoes>Defesa de dissertação e tese</observacoes>
+    </row>
+    <row>
+        <id>126</id>
+        <symbol>134.331</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de orientador e co-orientador</observacoes>
+    </row>
+    <row>
+        <id>127</id>
+        <symbol>134.332</symbol>
+        <assunto> </assunto>
+        <observacoes>Bancas examinadoras: indicação e atuação,Incluem-se portarias de indicação das bancas examinadoras e as atas resultantes de sua atuação.</observacoes>
+    </row>
+    <row>
+        <id>128</id>
+        <symbol>134.333</symbol>
+        <assunto> </assunto>
+        <observacoes>Prorrogação de prazo para a defesa</observacoes>
+    </row>
+    <row>
+        <id>129</id>
+        <symbol>134.334</symbol>
+        <assunto> </assunto>
+        <observacoes>Dissertação e tese</observacoes>
+    </row>
+    <row>
+        <id>130</id>
+        <symbol>134.34</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro de conteúdo programático ministrado, rendimento e frequência,Incluem-se diários de classe, listas de frequência ou presença, relação de conceitos e notas, resumo semestral, mapa de apuração de frequência e notas.</observacoes>
+    </row>
+    <row>
+        <id>131</id>
+        <symbol>134.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>132</id>
+        <symbol>134.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar. Integralização curricular</observacoes>
+    </row>
+    <row>
+        <id>133</id>
+        <symbol>134.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de diploma</observacoes>
+    </row>
+    <row>
+        <id>134</id>
+        <symbol>134.421</symbol>
+        <assunto> </assunto>
+        <observacoes>Expedição,Incluem-se documentos referentes à solicitação de expedição do diploma.</observacoes>
+    </row>
+    <row>
+        <id>135</id>
+        <symbol>134.422</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro,Incluem-se documentos referentes aos procedimentos de registro do diploma que poderá ser feito em livros, folhas avulsas ou por meio de impressão eletrônica.</observacoes>
+    </row>
+    <row>
+        <id>136</id>
+        <symbol>134.423</symbol>
+        <assunto> </assunto>
+        <observacoes>Reconhecimento e revalidação,Incluem-se documentos referentes à solicitação de reconhecimento e revalidação de diplomas expedidos por instituições de ensino superior no exterior.</observacoes>
+    </row>
+    <row>
+        <id>137</id>
+        <symbol>134.424</symbol>
+        <assunto> </assunto>
+        <observacoes>Verificação de autenticidade,Incluem-se documentos referentes à solicitação de verificação de autenticidade de diploma pelo Departamento de Polícia Federal (DPF) ou por outros órgãos públicos.</observacoes>
+    </row>
+    <row>
+        <id>138</id>
+        <symbol>134.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da identidade, do CPF, da certidão de nascimento ou casamento, do certificado de quitação com o serviço militar, do título de eleitor, do comprovante de quitação eleitoral, dos atestados de idoneidade moral, de óbito e de saúde física e mental, do comprovante de residência, e do passaporte, se for estrangeiro, além de fotografia do aluno e curriculum vitae) e documentação acadêmica (atas do exame de qualificação e do exame de defesa de dissertação ou tese, cartas de confirmação de matrícula, de referência e de aceite do orientador, declaração do vínculo empregatício, cópia do diploma de graduação, registro profissional, folha de rosto da dissertação ou tese, formulário de inscrição no curso, histórico da graduação, licença para afastamento temporário, pedido do exame de qualificação, plano de estudo ou matrícula semestral nas disciplinas a cursar com o aval do orientador, projeto de pesquisa, relatórios semestrais, solicitação de defesa de dissertação ou tese, trancamento de matrícula, de curso e de disciplina, nada consta da biblioteca, procurações, solicitações de atestados, requerimentos e registro das notas).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e acadêmicos que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>139</id>
+        <symbol>134.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar,Incluem-se documentos referentes à aluna gestante e ao aluno portador de afecções, infecções e traumatismos.</observacoes>
+    </row>
+    <row>
+        <id>140</id>
+        <symbol>134.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias. Estágios não obrigatórios,Nas subdivisões deste descritor classificam-se documentos referentes às solicitações de bolsas individuais de monitorias, nas instituições de apoio e fomento ao ensino e pesquisa, e aos estágios não obrigatórios.,Para as solicitações de bolsas institucionais referentes à Pesquisa, classificar nas subdivisões dos códigos 220, 230 ou 240, para as referentes à Extensão, classificar nas subdivisões dos códigos 320, 330 ou 380, para os auxílios referentes à assistência estudantil, classificar nas subdivisões da Classe 500.</observacoes>
+    </row>
+    <row>
+        <id>141</id>
+        <symbol>134.61</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias,Incluem-se estudos, propostas, programas e projetos, bem como editais e resultados do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>142</id>
+        <symbol>134.611</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à divulgação, inscrição, provas, entrevistas, listas de inclusão e exclusão.</observacoes>
+    </row>
+    <row>
+        <id>143</id>
+        <symbol>134.612</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de monitor e orientador</observacoes>
+    </row>
+    <row>
+        <id>144</id>
+        <symbol>134.613</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se relatórios parciais e finais, bem como controle de expedição de certificados.</observacoes>
+    </row>
+    <row>
+        <id>145</id>
+        <symbol>134.62</symbol>
+        <assunto> </assunto>
+        <observacoes>Estágios não obrigatórios,Incluem-se documentos referentes ao encaminhamento, acompanhamento e avaliação dos alunos nos estágios não obrigatórios como ficha de avaliação de desempenho, relatórios, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>146</id>
+        <symbol>134.63</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência de monitores e estagiários</observacoes>
+    </row>
+    <row>
+        <id>147</id>
+        <symbol>134.7</symbol>
+        <assunto> </assunto>
+        <observacoes>Mobilidade acadêmica. Mobilidade estudantil. Intercâmbio</observacoes>
+    </row>
+    <row>
+        <id>148</id>
+        <symbol>134.71</symbol>
+        <assunto> </assunto>
+        <observacoes>Nacional,Incluem-se documentos referentes aos beneficiados pelos programas de mobilidade acadêmica ou estudantil e de convênios de intercâmbio entre instituições de ensino superior em âmbito nacional.</observacoes>
+    </row>
+    <row>
+        <id>149</id>
+        <symbol>134.72</symbol>
+        <assunto> </assunto>
+        <observacoes>Internacional,Incluem-se documentos referentes aos beneficiados pelos programas de mobilidade acadêmica ou estudantil e de convênios de intercâmbio entre instituições de ensino superior em âmbito internacional.</observacoes>
+    </row>
+    <row>
+        <id>150</id>
+        <symbol>134.8</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>151</id>
+        <symbol>140</symbol>
+        <assunto> </assunto>
+        <observacoes>Cursos de pós-graduação lato sensu (inclusive na modalidade a distância),Nas subdivisões deste descritor classificam-se documentos referentes aos cursos de especialização, de residência médica e dos designados como Master of Business Administration (MBA).</observacoes>
+    </row>
+    <row>
+        <id>152</id>
+        <symbol>141</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento dos cursos de pós-graduação lato sensu</observacoes>
+    </row>
+    <row>
+        <id>153</id>
+        <symbol>141.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico dos cursos,Incluem-se documentos referentes à concepção do ensino e aprendizagem dos cursos, contendo a definição das características gerais do projeto, os fundamentos teórico-metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>154</id>
+        <symbol>141.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Criação de cursos</observacoes>
+    </row>
+    <row>
+        <id>155</id>
+        <symbol>141.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Credenciamento para orientação,Incluem-se documentos referentes ao credenciamento de orientadores e co-orientadores, internos e externos.</observacoes>
+    </row>
+    <row>
+        <id>156</id>
+        <symbol>142</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>157</id>
+        <symbol>142.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Estrutura do currículo (grade ou matriz curricular)</observacoes>
+    </row>
+    <row>
+        <id>158</id>
+        <symbol>142.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular , Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos. , Para as instituições em que a reformulação curricular estiver incluída no projeto pedagógico dos cursos, classificar no código 141.1.</observacoes>
+    </row>
+    <row>
+        <id>159</id>
+        <symbol>142.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: programas didáticos,Incluem-se conteúdos programáticos, ementas das disciplinas e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>160</id>
+        <symbol>142.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Oferta de disciplinas,Incluem-se quadros ou mapas de ofertas de disciplinas e documentos referentes à alocação ou distribuição de encargos didáticos, atribuição de disciplinas a docentes, cancelamento de disciplinas e horários de aula.</observacoes>
+    </row>
+    <row>
+        <id>161</id>
+        <symbol>143</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade acadêmica,Incluem-se documentos referentes à determinação ou fixação do calendário acadêmico.</observacoes>
+    </row>
+    <row>
+        <id>162</id>
+        <symbol>144</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida acadêmica dos alunos dos cursos de pós-graduação lato sensu</observacoes>
+    </row>
+    <row>
+        <id>163</id>
+        <symbol>144.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida acadêmica dos alunos dos cursos de pós-graduação lato sensu. Ingresso</observacoes>
+    </row>
+    <row>
+        <id>164</id>
+        <symbol>144.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Nas subdivisões desse descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>165</id>
+        <symbol>144.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos das provas, composição de bancas e critérios de correção das provas.</observacoes>
+    </row>
+    <row>
+        <id>166</id>
+        <symbol>144.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições , Incluem-se fichas de inscrição e os documentos exigidos no edital para sua homologação.</observacoes>
+    </row>
+    <row>
+        <id>167</id>
+        <symbol>144.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas,Incluem-se documentos referentes aos procedimentos de realização das provas como controle de aplicação, frequência do candidato, relação de candidatos ausentes, inscrições extraviadas, termo de abertura de envelope, termo de compromisso e ata de sala.</observacoes>
+    </row>
+    <row>
+        <id>168</id>
+        <symbol>144.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados pelos candidatos e folhas de resposta.</observacoes>
+    </row>
+    <row>
+        <id>169</id>
+        <symbol>144.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>170</id>
+        <symbol>144.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>171</id>
+        <symbol>144.19</symbol>
+        <assunto> </assunto>
+        <observacoes>Outras formas de ingresso,Ordenar por: aluno especial, reintegração</observacoes>
+    </row>
+    <row>
+        <id>172</id>
+        <symbol>144.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registros acadêmicos</observacoes>
+    </row>
+    <row>
+        <id>173</id>
+        <symbol>144.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula. Registro,Incluem-se documentos referentes ao processo de cadastramento inicial do aluno para estabelecer sua vinculação à instituição e ao seu respectivo curso.</observacoes>
+    </row>
+    <row>
+        <id>174</id>
+        <symbol>144.22</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição em disciplinas. Matrícula em disciplinas,Incluem-se documentos referentes à correção de matrícula, solicitações especiais de matrícula, reabertura, recondução e cancelamento de matrícula em disciplinas e transferência de pólo.</observacoes>
+    </row>
+    <row>
+        <id>175</id>
+        <symbol>144.23</symbol>
+        <assunto> </assunto>
+        <observacoes>Isenção de disciplinas. Dispensa de disciplinas. Aproveitamento de estudos</observacoes>
+    </row>
+    <row>
+        <id>176</id>
+        <symbol>144.24</symbol>
+        <assunto> </assunto>
+        <observacoes>Trancamento</observacoes>
+    </row>
+    <row>
+        <id>177</id>
+        <symbol>144.241</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplina. Matrícula parcial,Incluem-se documentos referentes à solicitação de trancamento de matrícula em uma ou mais disciplinas, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>178</id>
+        <symbol>144.242</symbol>
+        <assunto> </assunto>
+        <observacoes>Total de curso. Matrícula total,Incluem-se documentos referentes à solicitação de trancamento total de matrícula do curso, bem como a sua renovação.</observacoes>
+    </row>
+    <row>
+        <id>179</id>
+        <symbol>144.25</symbol>
+        <assunto> </assunto>
+        <observacoes>Desligamento</observacoes>
+    </row>
+    <row>
+        <id>180</id>
+        <symbol>144.251</symbol>
+        <assunto> </assunto>
+        <observacoes>Abandono de curso</observacoes>
+    </row>
+    <row>
+        <id>181</id>
+        <symbol>144.252</symbol>
+        <assunto> </assunto>
+        <observacoes>Jubilação</observacoes>
+    </row>
+    <row>
+        <id>182</id>
+        <symbol>144.253</symbol>
+        <assunto> </assunto>
+        <observacoes>Recusa de matrícula</observacoes>
+    </row>
+    <row>
+        <id>183</id>
+        <symbol>144.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>184</id>
+        <symbol>144.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos,Incluem-se provas, exames e trabalhos, realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>185</id>
+        <symbol>144.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Trabalho de conclusão de curso. Trabalho final de curso, Incluem-se monografias, artigos científicos e relatórios, entre outros trabalhos elaborados na finalização dos cursos.</observacoes>
+    </row>
+    <row>
+        <id>186</id>
+        <symbol>144.321</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de orientador e co-orientador</observacoes>
+    </row>
+    <row>
+        <id>187</id>
+        <symbol>144.322</symbol>
+        <assunto> </assunto>
+        <observacoes>Bancas examinadoras: indicação e atuação,Incluem-se portarias de indicação das bancas examinadoras e as atas resultantes de sua atuação.</observacoes>
+    </row>
+    <row>
+        <id>188</id>
+        <symbol>144.323</symbol>
+        <assunto> </assunto>
+        <observacoes>Prorrogação de prazo para entrega e apresentação</observacoes>
+    </row>
+    <row>
+        <id>189</id>
+        <symbol>144.33</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro de conteúdo programático ministrado, rendimento e frequência,Incluem-se diários de classe, listas de frequência ou presença, relação de conceitos e notas, mapa de apuração de frequência e notas.</observacoes>
+    </row>
+    <row>
+        <id>190</id>
+        <symbol>144.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação acadêmica</observacoes>
+    </row>
+    <row>
+        <id>191</id>
+        <symbol>144.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar. Integralização curricular</observacoes>
+    </row>
+    <row>
+        <id>192</id>
+        <symbol>144.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de certificado</observacoes>
+    </row>
+    <row>
+        <id>193</id>
+        <symbol>144.421</symbol>
+        <assunto> </assunto>
+        <observacoes>Expedição,Incluem-se documentos referentes à solicitação de expedição do certificado.</observacoes>
+    </row>
+    <row>
+        <id>194</id>
+        <symbol>144.422</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro,Incluem-se documentos referentes aos procedimentos de registro do certificado que poderá ser feito em livros, folhas avulsas ou por meio de impressão eletrônica.</observacoes>
+    </row>
+    <row>
+        <id>195</id>
+        <symbol>144.423</symbol>
+        <assunto> </assunto>
+        <observacoes>Reconhecimento e revalidação,Incluem-se documentos referentes à solicitação de reconhecimento e revalidação de certificados expedidos por instituições de ensino superior no exterior.</observacoes>
+    </row>
+    <row>
+        <id>196</id>
+        <symbol>144.424</symbol>
+        <assunto> </assunto>
+        <observacoes>Verificação de autenticidade,Incluem-se documentos referentes à solicitação de verificação de autenticidade do certificado pelo Departamento de Polícia Federal (DPF) ou por outros órgãos públicos.</observacoes>
+    </row>
+    <row>
+        <id>197</id>
+        <symbol>144.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da identidade, do CPF, da certidão de nascimento ou casamento, do certificado de quitação com o serviço militar, do título de eleitor, do comprovante de quitação eleitoral, dos atestados de idoneidade moral, de óbito, de saúde física e mental, do comprovante de residência, e do passaporte, se for estrangeiro, além de fotografia do aluno e do curriculum vitae) e documentação acadêmica (diploma da graduação, histórico escolar e registro profissional, nada consta da biblioteca, procurações, solicitações de atestados, requerimentos e registro das notas).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e acadêmicos que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>198</id>
+        <symbol>144.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar,Incluem-se documentos referentes à aluna gestante e ao aluno portador de afecções, infecções e traumatismos.</observacoes>
+    </row>
+    <row>
+        <id>199</id>
+        <symbol>144.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias. Estágios não obrigatórios,Nas subdivisões deste descritor classificam-se documentos referentes às solicitações de bolsas individuais de monitorias, nas instituições de apoio e fomento ao ensino e pesquisa, e aos estágios não obrigatórios.,Para as solicitações de bolsas institucionais referentes à Pesquisa, classificar nas subdivisões dos códigos 220, 230 ou 240, para as referentes à Extensão, classificar nas subdivisões dos códigos 320, 330 ou 380, para os auxílios referentes à assistência estudantil, classificar nas subdivisões da Classe 500.</observacoes>
+    </row>
+    <row>
+        <id>200</id>
+        <symbol>144.61</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias,Incluem-se estudos, propostas, programas e projetos, bem como editais e resultados do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>201</id>
+        <symbol>144.611</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à divulgação, inscrição, provas, entrevistas, listas de inclusão e exclusão.</observacoes>
+    </row>
+    <row>
+        <id>202</id>
+        <symbol>144.612</symbol>
+        <assunto> </assunto>
+        <observacoes>Indicação, aceite e substituição de monitor e orientador</observacoes>
+    </row>
+    <row>
+        <id>203</id>
+        <symbol>144.613</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se relatórios parciais e finais, bem como controle de expedição de certificados.</observacoes>
+    </row>
+    <row>
+        <id>204</id>
+        <symbol>144.62</symbol>
+        <assunto> </assunto>
+        <observacoes>Estágios não obrigatórios,Incluem-se documentos referentes ao encaminhamento, acompanhamento e avaliação dos alunos nos estágios não obrigatórios como ficha de avaliação de desempenho, relatórios, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>205</id>
+        <symbol>144.63</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência de monitores e estagiários</observacoes>
+    </row>
+    <row>
+        <id>206</id>
+        <symbol>144.7</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>207</id>
+        <symbol>190</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes ao ensino superior,A classificação de documentos nesta subclasse só deverá ocorrer após apreciação e aprovação pelo Arquivo Nacional.</observacoes>
+    </row>
+    <row>
+        <id>208</id>
+        <symbol>200</symbol>
+        <assunto> </assunto>
+        <observacoes>PESQUISA</observacoes>
+    </row>
+    <row>
+        <id>209</id>
+        <symbol>210</symbol>
+        <assunto> </assunto>
+        <observacoes>Normatização. Regulamentação,Incluem-se documentos referentes à concepção, organização e desenvolvimento das ações de pesquisa.</observacoes>
+    </row>
+    <row>
+        <id>210</id>
+        <symbol>220</symbol>
+        <assunto> </assunto>
+        <observacoes>Programas de pesquisa,Nas subdivisões deste descritor classificam-se documentos referentes aos programas de pesquisa institucionais.,Para as solicitações de bolsa de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63 e nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>211</id>
+        <symbol>221</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, aos pareceres das instâncias competentes, ao registro e à aprovação do programa de pesquisa.</observacoes>
+    </row>
+    <row>
+        <id>212</id>
+        <symbol>222</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução do programa.</observacoes>
+    </row>
+    <row>
+        <id>213</id>
+        <symbol>230</symbol>
+        <assunto> </assunto>
+        <observacoes>Projetos de pesquisa,Nas subdivisões deste descritor classificam-se os documentos referentes aos projetos de pesquisa institucionais, bem como os propostos por pesquisadores colaboradores e apoiados pela instituição.,Para as solicitações de bolsa de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63 e nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>214</id>
+        <symbol>231</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, ao registro e à aprovação do projeto de pesquisa.</observacoes>
+    </row>
+    <row>
+        <id>215</id>
+        <symbol>232</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução do projeto.</observacoes>
+    </row>
+    <row>
+        <id>216</id>
+        <symbol>240</symbol>
+        <assunto> </assunto>
+        <observacoes>Iniciação científica,Nas subdivisões deste descritor classificam-se os documentos referentes aos programas de bolsas de iniciação científica, com o apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e de instituições de pesquisa estaduais, bem como parcerias com outros órgãos de fomento.,Para as solicitações de bolsa de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63 e nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>217</id>
+        <symbol>241</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à inscrição do projeto pelo orientador, os planos de orientação, metodologia de acompanhamento e de avaliação, bem como o julgamento e comunicação do resultado.</observacoes>
+    </row>
+    <row>
+        <id>218</id>
+        <symbol>242</symbol>
+        <assunto> </assunto>
+        <observacoes>Cadastramento de bolsistas,Incluem-se os termos de compromisso do orientador e do bolsista, bem como os documentos referentes ao cancelamento, suspensão, substituição e reativação de bolsistas.</observacoes>
+    </row>
+    <row>
+        <id>219</id>
+        <symbol>243</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência de bolsistas,Incluem-se atestados de frequência, controle da expedição de certificados ou declarações de participação dos bolsistas nos programas de iniciação científica.</observacoes>
+    </row>
+    <row>
+        <id>220</id>
+        <symbol>244</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação de bolsistas,Incluem-se documentos referentes à produção científica do bolsista.</observacoes>
+    </row>
+    <row>
+        <id>221</id>
+        <symbol>250</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência e inovação tecnológica , Nas subdivisões deste descritor classificam-se os documentos referentes à gestão do conhecimento científico produzido na instituição como apoio à solicitação de pedidos de patentes, à disseminação da cultura de propriedade intelectual, às atividades de transferência e de inovação tecnológica e às atividades de empreendedorismo.</observacoes>
+    </row>
+    <row>
+        <id>222</id>
+        <symbol>251</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro da propriedade intelectual,Nas subdivisões deste descritor classificam-se documentos referentes à solicitação, registro, depósito, proteção e divulgação da propriedade intelectual produzida na instituição.</observacoes>
+    </row>
+    <row>
+        <id>223</id>
+        <symbol>251.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Apoio à redação de patentes,Incluem-se documentos referentes à realização de cursos, consultorias e orientações em geral, para elaboração de patentes de invenção, marcas, desenhos industriais, softwares, indicações geográficas e cultivares.</observacoes>
+    </row>
+    <row>
+        <id>224</id>
+        <symbol>251.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Apresentação e acompanhamento,Incluem-se documentos referentes à pesquisa prévia, preenchimento de formulários próprios e apresentação de documentação comprobatória e descritiva do produto, acompanhamento do depósito de pedido de registro até a emissão da carta-patente ou registro do produto.</observacoes>
+    </row>
+    <row>
+        <id>225</id>
+        <symbol>252</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência de tecnologia</observacoes>
+    </row>
+    <row>
+        <id>226</id>
+        <symbol>252.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Informações técnicas,Incluem-se documentos referentes às solicitações de informações, sobre produtos e serviços disponíveis, relativas ao processo de transferência de tecnologia.</observacoes>
+    </row>
+    <row>
+        <id>227</id>
+        <symbol>252.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Celebração e acompanhamento de contratos , Incluem-se documentos referentes à efetivação do contrato de transferência de tecnologia, licenciamento, aquisição de conhecimento, franquia com a instituição, averbação junto ao Instituto Nacional da Propriedade Industrial (INPI).</observacoes>
+    </row>
+    <row>
+        <id>228</id>
+        <symbol>252.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Parcerias para exploração e desenvolvimento de inovação tecnológica , Incluem-se documentos referentes à formação de alianças e parcerias institucionais com instituições públicas ou privadas, para a realização de atividades conjuntas de pesquisa científica e tecnológica, na criação ou desenvolvimento de processo ou produto inovador como apoio à elaboração de projetos e a celebração de convênios.</observacoes>
+    </row>
+    <row>
+        <id>229</id>
+        <symbol>253</symbol>
+        <assunto> </assunto>
+        <observacoes>Divulgação de informação tecnológica</observacoes>
+    </row>
+    <row>
+        <id>230</id>
+        <symbol>253.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Informação tecnológica institucional,Incluem-se documentos referentes aos depósitos, registros de patentes nacionais e internacionais, pedidos de marcas, tecnologias licenciadas, tecnologias disponíveis para indústria, informações sobre pesquisas, desenvolvimento e lançamento de novos produtos ou processos da instituição.</observacoes>
+    </row>
+    <row>
+        <id>231</id>
+        <symbol>253.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação da transferência e inovação tecnológica,Incluem-se diagnósticos, estudos e relatórios de avaliação e desenvolvimento das atividades.</observacoes>
+    </row>
+    <row>
+        <id>232</id>
+        <symbol>254</symbol>
+        <assunto> </assunto>
+        <observacoes>Programas de incubadora de empresas</observacoes>
+    </row>
+    <row>
+        <id>233</id>
+        <symbol>254.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Prospecção de projetos,Incluem-se documentos referentes à identificação, orientação, assessoria capacitada e apoio na busca de recursos financeiros de projetos tecnológicos inovadores com potencial de mercado.</observacoes>
+    </row>
+    <row>
+        <id>234</id>
+        <symbol>254.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Implantação e acompanhamento do programa</observacoes>
+    </row>
+    <row>
+        <id>235</id>
+        <symbol>254.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à inscrição do projeto como editais, cronogramas, entrevistas, pré-projetos, projetos detalhados e planos de negócios.</observacoes>
+    </row>
+    <row>
+        <id>236</id>
+        <symbol>254.22</symbol>
+        <assunto> </assunto>
+        <observacoes>Admissão,Incluem-se documentos referentes à admissão da empresa ao programa de incubadora como manual de operação, regimento, plano de negócios, documentação do empreendedor, da empresa e o contrato.</observacoes>
+    </row>
+    <row>
+        <id>237</id>
+        <symbol>254.23</symbol>
+        <assunto> </assunto>
+        <observacoes>Capacitação de empreendedores,Incluem-se documentos referentes ao apoio técnico no desenvolvimento do programa de incubadora como cursos, workshops, seminários em gestão, identificação de oportunidades de financiamento, integração à comunidade universitária, consultorias, assessorias e confecção de protótipos.</observacoes>
+    </row>
+    <row>
+        <id>238</id>
+        <symbol>254.24</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes ao fornecimento de informações, requeridas pelo programa de incubadora, para viabilizar o acompanhamento da evolução da empresa e orientar os serviços a serem oferecidos aos participantes do programa.</observacoes>
+    </row>
+    <row>
+        <id>239</id>
+        <symbol>260</symbol>
+        <assunto> </assunto>
+        <observacoes>Ética em pesquisa</observacoes>
+    </row>
+    <row>
+        <id>240</id>
+        <symbol>261</symbol>
+        <assunto> </assunto>
+        <observacoes>Pesquisa em seres humanos</observacoes>
+    </row>
+    <row>
+        <id>241</id>
+        <symbol>261.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Comitê de ética,Incluem-se documentos referentes à criação e atuação do comitê como normas, regulamentos, convocações, pautas, atas, certificados, deliberações, notas técnicas, pareceres e relatórios.</observacoes>
+    </row>
+    <row>
+        <id>242</id>
+        <symbol>261.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro da pesquisa,Incluem-se documentos referentes à solicitação de registro da pesquisa como projeto e protocolo, orçamento detalhado do projeto, curriculum vitae do(s) pesquisador(es), Termo de Consentimento Livre e Esclarecido (TCLE), concordância da instituição onde a pesquisa será realizada, roteiro para verificação dos documentos e informações necessárias à análise do projeto, parecer de liberação e relatório de conclusão dos experimentos realizados.</observacoes>
+    </row>
+    <row>
+        <id>243</id>
+        <symbol>262</symbol>
+        <assunto> </assunto>
+        <observacoes>Pesquisa em animais</observacoes>
+    </row>
+    <row>
+        <id>244</id>
+        <symbol>262.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Comissão de ética,Incluem-se documentos referentes à criação e atuação da comissão como normas, regulamentos, convocações, pautas, atas, certificados, deliberações, notas técnicas, pareceres e relatórios.</observacoes>
+    </row>
+    <row>
+        <id>245</id>
+        <symbol>262.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro da pesquisa,Incluem-se documentos referentes à solicitação de registro da pesquisa como projeto e protocolo, equipe e orçamento do projeto, detalhamento dos procedimentos experimentais, laboratoriais e de manutenção e destino final do animal, parecer de liberação e relatório de conclusão dos experimentos realizados, assim como os documentos referentes à utilização de animais em aulas práticas.</observacoes>
+    </row>
+    <row>
+        <id>246</id>
+        <symbol>263</symbol>
+        <assunto> </assunto>
+        <observacoes>Biossegurança</observacoes>
+    </row>
+    <row>
+        <id>247</id>
+        <symbol>263.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Comissão interna de biossegurança,Incluem-se documentos referentes à criação e atuação da comissão como normas, regulamentos, convocações, pautas, atas, certificados, deliberações, notas técnicas, pareceres e relatórios.</observacoes>
+    </row>
+    <row>
+        <id>248</id>
+        <symbol>263.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro da pesquisa,Incluem-se documentos referentes à solicitação de registro da pesquisa como projeto, curriculum vitae do(s) pesquisador(es), parecer de liberação e relatório de conclusão dos experimentos realizados.</observacoes>
+    </row>
+    <row>
+        <id>249</id>
+        <symbol>290</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à pesquisa,A classificação de documentos nesta subclasse só deverá ocorrer após apreciação e aprovação pelo Arquivo Nacional.</observacoes>
+    </row>
+    <row>
+        <id>250</id>
+        <symbol>300</symbol>
+        <assunto> </assunto>
+        <observacoes>EXTENSÃO</observacoes>
+    </row>
+    <row>
+        <id>251</id>
+        <symbol>310</symbol>
+        <assunto> </assunto>
+        <observacoes>Normatização. Regulamentação,Incluem-se documentos referentes à concepção, organização e desenvolvimento das ações de extensão.</observacoes>
+    </row>
+    <row>
+        <id>252</id>
+        <symbol>320</symbol>
+        <assunto> </assunto>
+        <observacoes>Programas de extensão,Nas subdivisões deste descritor classificam-se documentos referentes ao conjunto articulado de ações de extensão, pesquisa e ensino, tendo caráter orgânico-institucional, clareza de diretrizes e orientação para um objetivo comum e execução a médio e longo prazo.,Para as solicitações de bolsas de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63, nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>253</id>
+        <symbol>321</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, aos pareceres das instâncias competentes, ao registro e à aprovação do programa de extensão.</observacoes>
+    </row>
+    <row>
+        <id>254</id>
+        <symbol>322</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução do programa.</observacoes>
+    </row>
+    <row>
+        <id>255</id>
+        <symbol>330</symbol>
+        <assunto> </assunto>
+        <observacoes>Projetos de extensão,Nas subdivisões deste descritor classificam-se documentos referentes os projetos de extensão, com ação processual e contínua de caráter educativo, social, cultural científico ou tecnológico, com objetivo específico e prazo determinado.,Para as solicitações de bolsa de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63 e nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>256</id>
+        <symbol>331</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, objetivos, justificativa, metodologia, equipe de trabalho, cronograma, orçamentos, pareceres de aprovação e autorização dos órgãos competentes e registro do projeto de extensão.</observacoes>
+    </row>
+    <row>
+        <id>257</id>
+        <symbol>332</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução do projeto.</observacoes>
+    </row>
+    <row>
+        <id>258</id>
+        <symbol>340</symbol>
+        <assunto> </assunto>
+        <observacoes>Cursos de extensão</observacoes>
+    </row>
+    <row>
+        <id>259</id>
+        <symbol>341</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, objetivos, justificativa, metodologia, equipe de trabalho, cronograma, orçamentos, pareceres de aprovação e autorização dos órgãos competentes, registro, regulamento do curso, estrutura curricular, carga horária, número de vagas, critérios de seleção e avaliação dos alunos, apostilas dos cursos de extensão.</observacoes>
+    </row>
+    <row>
+        <id>260</id>
+        <symbol>342</symbol>
+        <assunto> </assunto>
+        <observacoes>Divulgação,Incluem-se documentos de caráter promocional como folders, cartazes, jornais, folhetos e anúncios.</observacoes>
+    </row>
+    <row>
+        <id>261</id>
+        <symbol>343</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição</observacoes>
+    </row>
+    <row>
+        <id>262</id>
+        <symbol>344</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência</observacoes>
+    </row>
+    <row>
+        <id>263</id>
+        <symbol>345</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de certificado,Incluem-se documentos referentes à expedição, registro e controle da entrega do certificado.</observacoes>
+    </row>
+    <row>
+        <id>264</id>
+        <symbol>346</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais resultantes da execução dos cursos.</observacoes>
+    </row>
+    <row>
+        <id>265</id>
+        <symbol>350</symbol>
+        <assunto> </assunto>
+        <observacoes>Eventos de extensão,Nas subdivisões deste descritor classificam-se documentos referentes às atividades de curta duração como seminários, exposições, congressos, fóruns, semanas, espetáculos, jogos e competições esportivas, olimpíadas, festivais ou equivalentes que contribuem para a disseminação do conhecimento gerado pelas ações de extensão.</observacoes>
+    </row>
+    <row>
+        <id>266</id>
+        <symbol>351</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, objetivos, justificativa, metodologia, planejamento e programação, equipe de trabalho, cronograma, orçamentos, pareceres de aprovação e autorização dos órgãos competentes, registro do evento de extensão, regulamentos dos eventos, carga horária e número de vagas.</observacoes>
+    </row>
+    <row>
+        <id>267</id>
+        <symbol>352</symbol>
+        <assunto> </assunto>
+        <observacoes>Divulgação,Incluem-se documentos de caráter promocional como folders, cartazes, jornais, folhetos e anúncios.</observacoes>
+    </row>
+    <row>
+        <id>268</id>
+        <symbol>353</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição</observacoes>
+    </row>
+    <row>
+        <id>269</id>
+        <symbol>354</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência,Incluem-se documentos referentes à frequência de participante, bem como o termo de responsabilidade dos alunos menores de idade e ficha de treinamento dos atletas, quando for o caso.</observacoes>
+    </row>
+    <row>
+        <id>270</id>
+        <symbol>355</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de certificado,Incluem-se documentos referentes à expedição, registro e controle da entrega do certificado.</observacoes>
+    </row>
+    <row>
+        <id>271</id>
+        <symbol>356</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução do evento.</observacoes>
+    </row>
+    <row>
+        <id>272</id>
+        <symbol>360</symbol>
+        <assunto> </assunto>
+        <observacoes>Prestação de serviço,Nas subdivisões deste descritor classificam-se documentos referentes às atividades de transferência à comunidade do conhecimento gerado, por meio de assessorias e consultorias, pesquisas encomendadas e atividades contratadas e financiadas por comunidade ou empresa.</observacoes>
+    </row>
+    <row>
+        <id>273</id>
+        <symbol>361</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, objetivos, justificativa, metodologia, equipe de trabalho, cronograma, orçamentos, pareceres de aprovação, autorização dos órgãos competentes e registro da prestação de serviço.</observacoes>
+    </row>
+    <row>
+        <id>274</id>
+        <symbol>362</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais e os produtos resultantes da execução da prestação do serviço.</observacoes>
+    </row>
+    <row>
+        <id>275</id>
+        <symbol>370</symbol>
+        <assunto> </assunto>
+        <observacoes>Difusão e divulgação da produção acadêmica,Nas subdivisões deste descritor classificam-se documentos referentes às publicações e aos produtos acadêmicos decorrentes das ações de extensão para difusão e divulgação cultural, científica ou tecnológica.</observacoes>
+    </row>
+    <row>
+        <id>276</id>
+        <symbol>371</symbol>
+        <assunto> </assunto>
+        <observacoes>Proposição,Incluem-se documentos referentes à apresentação da proposta, objetivos, justificativa, metodologia, equipe de trabalho, cronograma, orçamentos, pareceres de aprovação e autorização dos órgãos competentes, registro da produção acadêmica.</observacoes>
+    </row>
+    <row>
+        <id>277</id>
+        <symbol>372</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais resultantes da produção acadêmica.</observacoes>
+    </row>
+    <row>
+        <id>278</id>
+        <symbol>380</symbol>
+        <assunto> </assunto>
+        <observacoes>Programa institucional de bolsas de extensão,Nas subdivisões deste descritor classificam-se documentos referentes a cada etapa do desenvolvimento do programa.,Para as solicitações de bolsa de ensino de graduação, pós-graduação stricto sensu e lato sensu, classificar no código 125.63 e nas subdivisões dos códigos 134.6 e 144.6, respectivamente.</observacoes>
+    </row>
+    <row>
+        <id>279</id>
+        <symbol>381</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se documentos referentes à inscrição do projeto pelo coordenador, os planos de trabalho, metodologia de acompanhamento e de avaliação, bem como o julgamento e comunicação do resultado.</observacoes>
+    </row>
+    <row>
+        <id>280</id>
+        <symbol>382</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição e seleção de bolsistas,Incluem-se os termos de compromisso do coordenador e dos bolsistas, bem como os documentos referentes à substituição de bolsistas.</observacoes>
+    </row>
+    <row>
+        <id>281</id>
+        <symbol>383</symbol>
+        <assunto> </assunto>
+        <observacoes>Frequência de bolsistas,Incluem-se atestados de frequência, controle da expedição de certificados ou declarações de participação dos bolsistas nos programas de bolsas de extensão.</observacoes>
+    </row>
+    <row>
+        <id>282</id>
+        <symbol>384</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação. Resultados,Incluem-se relatórios parciais e finais resultantes da execução dos programas de bolsa de extensão.</observacoes>
+    </row>
+    <row>
+        <id>283</id>
+        <symbol>390</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à extensão,A classificação de documentos nesta subclasse só deverá ocorrer após apreciação e aprovação pelo Arquivo Nacional.</observacoes>
+    </row>
+    <row>
+        <id>284</id>
+        <symbol>400</symbol>
+        <assunto> </assunto>
+        <observacoes>EDUCAÇÃO BÁSICA E PROFISSIONAL</observacoes>
+    </row>
+    <row>
+        <id>285</id>
+        <symbol>410</symbol>
+        <assunto> </assunto>
+        <observacoes>Normatização. Regulamentação,Incluem-se documentos referentes à concepção, organização e funcionamento da educação básica e profissional.</observacoes>
+    </row>
+    <row>
+        <id>286</id>
+        <symbol>420</symbol>
+        <assunto> </assunto>
+        <observacoes>Educação infantil: creches e pré-escolar</observacoes>
+    </row>
+    <row>
+        <id>287</id>
+        <symbol>421</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento da educação infantil</observacoes>
+    </row>
+    <row>
+        <id>288</id>
+        <symbol>421.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico,Incluem-se documentos referentes à concepção do ensino e aprendizagem, contendo a definição das características gerais do projeto, os fundamentos teórico-metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>289</id>
+        <symbol>421.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Autorização para funcionamento</observacoes>
+    </row>
+    <row>
+        <id>290</id>
+        <symbol>422</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização das atividades pedagógicas,Incluem-se documentos referentes à determinação das atividades e tarefas a serem desenvolvidas, para a concretização da proposta pedagógica.</observacoes>
+    </row>
+    <row>
+        <id>291</id>
+        <symbol>423</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade escolar,Incluem-se documentos referentes à determinação ou fixação do calendário escolar.</observacoes>
+    </row>
+    <row>
+        <id>292</id>
+        <symbol>424</symbol>
+        <assunto> </assunto>
+        <observacoes>Reunião de professores,Incluem-se documentos referentes aos encontros de professores para estudos e debates sobre o desenvolvimento psicomotor e pedagógico dos alunos, bem como relatórios, pareceres da avaliação da aprendizagem e atas.</observacoes>
+    </row>
+    <row>
+        <id>293</id>
+        <symbol>425</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida escolar dos alunos da educação infantil</observacoes>
+    </row>
+    <row>
+        <id>294</id>
+        <symbol>425.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>295</id>
+        <symbol>425.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Incluem-se fichas de inscrições, relação dos inscritos e dos sorteados.</observacoes>
+    </row>
+    <row>
+        <id>296</id>
+        <symbol>425.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Edital. Resultado final</observacoes>
+    </row>
+    <row>
+        <id>297</id>
+        <symbol>425.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Mandado judicial</observacoes>
+    </row>
+    <row>
+        <id>298</id>
+        <symbol>425.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro escolar</observacoes>
+    </row>
+    <row>
+        <id>299</id>
+        <symbol>425.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro escolar. Matrícula</observacoes>
+    </row>
+    <row>
+        <id>300</id>
+        <symbol>425.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da certidão de nascimento, da carteira de vacinação, do comprovante de residência, do atestado de óbito e documentos de identificação dos responsáveis, além de fotografia do aluno e do termo de responsabilidade) e documentação escolar (ficha individual, registro e acompanhamento do desenvolvimento e da saúde e autorizações para uso de imagem e voz do aluno, para participação de eventos externos à escola e para atendimento médico).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e escolares que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>301</id>
+        <symbol>425.9</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à vida escolar dos alunos da educação infantil</observacoes>
+    </row>
+    <row>
+        <id>302</id>
+        <symbol>425.91</symbol>
+        <assunto> </assunto>
+        <observacoes>Formatura,Incluem-se documentos referentes à organização da solenidade de formatura, lista de participantes e exemplar do convite.</observacoes>
+    </row>
+    <row>
+        <id>303</id>
+        <symbol>430</symbol>
+        <assunto> </assunto>
+        <observacoes>Ensino fundamental (inclusive Educação de Jovens e Adultos)</observacoes>
+    </row>
+    <row>
+        <id>304</id>
+        <symbol>431</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento do ensino fundamental</observacoes>
+    </row>
+    <row>
+        <id>305</id>
+        <symbol>431.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico,Incluem-se documentos referentes à concepção do ensino e aprendizagem, contendo a definição das características gerais do projeto, os fundamentos teórico,metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>306</id>
+        <symbol>431.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Autorização para funcionamento</observacoes>
+    </row>
+    <row>
+        <id>307</id>
+        <symbol>432</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>308</id>
+        <symbol>432.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular,Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos.,Para as instituições que tiverem a reformulação curricular incluída no projeto pedagógico, classificar no código 431.1.</observacoes>
+    </row>
+    <row>
+        <id>309</id>
+        <symbol>432.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: programas didáticos,Incluem-se conteúdos programáticos, planos de aulas e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>310</id>
+        <symbol>433</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade escolar,Incluem-se documentos referentes à determinação ou fixação do calendário escolar.</observacoes>
+    </row>
+    <row>
+        <id>311</id>
+        <symbol>434</symbol>
+        <assunto> </assunto>
+        <observacoes>Conselhos de classe,Incluem-se relatórios, pareceres da avaliação da aprendizagem e atas.</observacoes>
+    </row>
+    <row>
+        <id>312</id>
+        <symbol>435</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida escolar dos alunos do ensino fundamental</observacoes>
+    </row>
+    <row>
+        <id>313</id>
+        <symbol>435.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>314</id>
+        <symbol>435.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Nas subdivisões deste descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>315</id>
+        <symbol>435.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos de prova (cadernos de provas), gabaritos (cartões-resposta e cartões do avaliador), listagens de apuração e critérios de correção das provas.</observacoes>
+    </row>
+    <row>
+        <id>316</id>
+        <symbol>435.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições,Incluem-se fichas de inscrição, questionário socioeconômico, solicitação de isenção de pagamento da taxa de inscrição, confirmação ou correção de dados cadastrais e estatística da relação candidato/vaga.</observacoes>
+    </row>
+    <row>
+        <id>317</id>
+        <symbol>435.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas,Incluem-se frequência do candidato, relação de candidatos ausentes, termo de abertura de envelope e ata de sala.</observacoes>
+    </row>
+    <row>
+        <id>318</id>
+        <symbol>435.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados pelos candidatos e folhas de resposta.</observacoes>
+    </row>
+    <row>
+        <id>319</id>
+        <symbol>435.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação, aos relatórios de estatística e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>320</id>
+        <symbol>435.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>321</id>
+        <symbol>435.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência,Incluem-se documentos referentes às transferências voluntárias ou facultativas e ex officio.</observacoes>
+    </row>
+    <row>
+        <id>322</id>
+        <symbol>435.13</symbol>
+        <assunto> </assunto>
+        <observacoes>Mandado judicial</observacoes>
+    </row>
+    <row>
+        <id>323</id>
+        <symbol>435.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro escolar</observacoes>
+    </row>
+    <row>
+        <id>324</id>
+        <symbol>435.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula,Incluem-se documentos referentes à matrícula regular, bem como aqueles relativos à matrícula dos alunos que participam de programas de intercâmbio e a sua reintegração.</observacoes>
+    </row>
+    <row>
+        <id>325</id>
+        <symbol>435.211</symbol>
+        <assunto> </assunto>
+        <observacoes>Cancelamento de matrícula: por desistência (voluntária) ou por jubilação (compulsória)</observacoes>
+    </row>
+    <row>
+        <id>326</id>
+        <symbol>435.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação escolar</observacoes>
+    </row>
+    <row>
+        <id>327</id>
+        <symbol>435.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos,Incluem-se provas, exames e trabalhos, realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>328</id>
+        <symbol>435.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro de conteúdo programático ministrado, rendimento e frequência,Incluem-se diários de classe, listas de frequência ou presença, relação de conceitos e notas, mapa de apuração de frequência e notas.</observacoes>
+    </row>
+    <row>
+        <id>329</id>
+        <symbol>435.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação escolar</observacoes>
+    </row>
+    <row>
+        <id>330</id>
+        <symbol>435.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar</observacoes>
+    </row>
+    <row>
+        <id>331</id>
+        <symbol>435.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de certificado,Incluem-se documentos referentes à solicitação, expedição, registro e ao controle da entrega do certificado.</observacoes>
+    </row>
+    <row>
+        <id>332</id>
+        <symbol>435.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da certidão de nascimento ou casamento, da carteira de vacinação, dos documentos de identificação dos responsáveis, da identidade e do CPF, caso possua, do certificado de quitação com o serviço militar, do título de eleitor e do comprovante de quitação eleitoral, se for maior de dezoito anos, do comprovante de residência, e dos atestados de saúde física e mental e de óbito, além de fotografia do aluno e do termo de responsabilidade, caso ele seja legalmente incapaz) e documentação escolar (guia de transferência, requerimentos, histórico escolar, ficha individual, registro do certificado, ressalva e boletim escolar).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e escolares que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>333</id>
+        <symbol>435.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar,Incluem-se documentos referentes à aluna gestante e ao aluno portador de afecções, infecções e traumatismos.</observacoes>
+    </row>
+    <row>
+        <id>334</id>
+        <symbol>435.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>335</id>
+        <symbol>435.9</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à vida escolar dos alunos do ensino fundamental</observacoes>
+    </row>
+    <row>
+        <id>336</id>
+        <symbol>435.91</symbol>
+        <assunto> </assunto>
+        <observacoes>Formatura,Incluem-se documentos referentes à organização da solenidade de formatura, lista de participantes e exemplar do convite.</observacoes>
+    </row>
+    <row>
+        <id>337</id>
+        <symbol>440</symbol>
+        <assunto> </assunto>
+        <observacoes>Ensino médio (inclusive Educação de Jovens e Adultos)</observacoes>
+    </row>
+    <row>
+        <id>338</id>
+        <symbol>441</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento do ensino médio</observacoes>
+    </row>
+    <row>
+        <id>339</id>
+        <symbol>441.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico,Incluem-se documentos referentes à concepção do ensino e aprendizagem, contendo a definição das características gerais do projeto, os fundamentos teórico,metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>340</id>
+        <symbol>441.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Autorização para funcionamento</observacoes>
+    </row>
+    <row>
+        <id>341</id>
+        <symbol>442</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>342</id>
+        <symbol>442.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular,Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos.,Para as instituições que tiverem a reformulação curricular incluída no projeto pedagógico, classificar no código 441.1.</observacoes>
+    </row>
+    <row>
+        <id>343</id>
+        <symbol>442.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: Programas didáticos,Incluem-se conteúdos programáticos, planos de aulas e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>344</id>
+        <symbol>443</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade escolar,Incluem-se documentos referentes à determinação ou fixação do calendário escolar.</observacoes>
+    </row>
+    <row>
+        <id>345</id>
+        <symbol>444</symbol>
+        <assunto> </assunto>
+        <observacoes>Conselhos de classe,Incluem-se relatórios, pareceres da avaliação da aprendizagem e atas.</observacoes>
+    </row>
+    <row>
+        <id>346</id>
+        <symbol>445</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida escolar dos alunos do ensino médio</observacoes>
+    </row>
+    <row>
+        <id>347</id>
+        <symbol>445.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>348</id>
+        <symbol>445.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Nas subdivisões deste descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>349</id>
+        <symbol>445.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos de prova (cadernos de provas), gabaritos (cartões-resposta e cartões do avaliador) e critérios de correção das provas.</observacoes>
+    </row>
+    <row>
+        <id>350</id>
+        <symbol>445.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições,Incluem-se fichas de inscrição, questionário socioeconômico, solicitação de isenção de pagamento da taxa de inscrição, confirmação ou correção de dados cadastrais e estatística da relação candidato/vaga.</observacoes>
+    </row>
+    <row>
+        <id>351</id>
+        <symbol>445.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas , Incluem-se frequência do candidato, relação de candidatos ausentes, inscrições extraviadas, termo de abertura de envelope e ata de sala.</observacoes>
+    </row>
+    <row>
+        <id>352</id>
+        <symbol>445.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados e folhas de resposta.</observacoes>
+    </row>
+    <row>
+        <id>353</id>
+        <symbol>445.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação, aos relatórios de estatística e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>354</id>
+        <symbol>445.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>355</id>
+        <symbol>445.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência,Incluem-se documentos referentes às transferências voluntárias ou facultativas e ex officio.</observacoes>
+    </row>
+    <row>
+        <id>356</id>
+        <symbol>445.19</symbol>
+        <assunto> </assunto>
+        <observacoes>Outras formas de ingresso,Ordenar por: Mandado judicial, Reintegração</observacoes>
+    </row>
+    <row>
+        <id>357</id>
+        <symbol>445.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro escolar</observacoes>
+    </row>
+    <row>
+        <id>358</id>
+        <symbol>445.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula,Incluem-se documentos referentes à matrícula regular, bem como aqueles relativos à matrícula dos alunos que participam de programas de intercâmbio e a sua reintegração.</observacoes>
+    </row>
+    <row>
+        <id>359</id>
+        <symbol>445.211</symbol>
+        <assunto> </assunto>
+        <observacoes>Cancelamento de matrícula: por desistência (voluntária) ou por jubilação (compulsória)</observacoes>
+    </row>
+    <row>
+        <id>360</id>
+        <symbol>445.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação escolar</observacoes>
+    </row>
+    <row>
+        <id>361</id>
+        <symbol>445.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos. Incluem-se provas, exames e trabalhos, realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>362</id>
+        <symbol>445.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro de conteúdo programático ministrado, rendimento e frequência,Incluem-se diários de classe, listas de frequência ou presença, relação de conceitos e notas, resumo semestral, mapa de apuração de frequência e notas.</observacoes>
+    </row>
+    <row>
+        <id>363</id>
+        <symbol>445.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação escolar</observacoes>
+    </row>
+    <row>
+        <id>364</id>
+        <symbol>445.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar</observacoes>
+    </row>
+    <row>
+        <id>365</id>
+        <symbol>445.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de certificado</observacoes>
+    </row>
+    <row>
+        <id>366</id>
+        <symbol>445.421</symbol>
+        <assunto> </assunto>
+        <observacoes>Expedição,Incluem-se documentos referentes à solicitação de expedição do certificado.</observacoes>
+    </row>
+    <row>
+        <id>367</id>
+        <symbol>445.422</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro,Incluem-se documentos referentes aos procedimentos de registro do certificado e controle da entrega.</observacoes>
+    </row>
+    <row>
+        <id>368</id>
+        <symbol>445.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da certidão de nascimento ou casamento, dos documentos de identificação dos responsáveis, da identidade e do CPF, caso possua, do certificado de quitação com o serviço militar, do título de eleitor e do comprovante de quitação eleitoral, quando maior de dezoito anos, do comprovante de residência, do passaporte, se for estrangeiro, e dos atestados de saúde física e mental e de óbito, além de fotografia do aluno e do termo de responsabilidade, caso ele seja legalmente incapaz) e documentação escolar (guia de transferência, certificado de conclusão do ensino fundamental, requerimentos, histórico escolar, ficha individual, registro do certificado, ressalva e boletim escolar).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e escolares que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>369</id>
+        <symbol>445.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar,Incluem-se documentos referentes à aluna gestante e ao aluno portador de afecções, infecções e traumatismos.</observacoes>
+    </row>
+    <row>
+        <id>370</id>
+        <symbol>445.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias. Estágios não obrigatórios,Incluem-se documentos referentes ao processo de seleção, encaminhamento, acompanhamento, frequência e avaliação dos alunos nas monitorias e aos estágios não obrigatórios como a ficha de avaliação de desempenho, relatórios, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>371</id>
+        <symbol>445.7</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>372</id>
+        <symbol>445.9</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à vida escolar dos alunos do ensino médio</observacoes>
+    </row>
+    <row>
+        <id>373</id>
+        <symbol>445.91</symbol>
+        <assunto> </assunto>
+        <observacoes>Formatura,Incluem-se documentos referentes à organização da solenidade de formatura, lista de participantes e exemplar do convite.</observacoes>
+    </row>
+    <row>
+        <id>374</id>
+        <symbol>450</symbol>
+        <assunto> </assunto>
+        <observacoes>Ensino técnico</observacoes>
+    </row>
+    <row>
+        <id>375</id>
+        <symbol>451</symbol>
+        <assunto> </assunto>
+        <observacoes>Concepção, organização e funcionamento do ensino técnico</observacoes>
+    </row>
+    <row>
+        <id>376</id>
+        <symbol>451.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Projeto pedagógico,Incluem-se documentos referentes à concepção do ensino e aprendizagem, contendo a definição das características gerais do projeto, a qualificação ou habilitação profissional e planos de trabalho, os fundamentos teórico-metodológicos, os objetivos, o tipo de organização e as formas de implementação e avaliação.</observacoes>
+    </row>
+    <row>
+        <id>377</id>
+        <symbol>451.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Criação e reconhecimento de curso. Autorização para funcionamento</observacoes>
+    </row>
+    <row>
+        <id>378</id>
+        <symbol>452</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento e organização curricular</observacoes>
+    </row>
+    <row>
+        <id>379</id>
+        <symbol>452.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Estrutura do currículo (grade ou matriz curricular)</observacoes>
+    </row>
+    <row>
+        <id>380</id>
+        <symbol>452.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Reformulação curricular,Incluem-se documentos referentes às alterações, mudanças, ajustes e adaptações efetuadas nos currículos.,Para as instituições que tiverem a reformulação curricular incluída no projeto pedagógico, classificar no código 451.1.</observacoes>
+    </row>
+    <row>
+        <id>381</id>
+        <symbol>452.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Disciplinas: programas didáticos,Incluem-se conteúdos programáticos, planos de curso, planos de aula e carga horária.</observacoes>
+    </row>
+    <row>
+        <id>382</id>
+        <symbol>452.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Oferta de disciplinas,Incluem-se quadros ou mapas de ofertas de disciplinas (obrigatórias, isoladas, optativas e eletivas) e documentos referentes à alocação ou distribuição de encargos didáticos, atribuição de disciplinas a docentes, cancelamento de disciplinas e horários de aula.</observacoes>
+    </row>
+    <row>
+        <id>383</id>
+        <symbol>452.32</symbol>
+        <assunto> </assunto>
+        <observacoes>Estágios obrigatórios,Incluem-se documentos referentes ao encaminhamento, acompanhamento e avaliação dos alunos nos programas de estágio como fichas de avaliação de desempenho, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>384</id>
+        <symbol>453</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento da atividade escolar,Incluem-se documentos referentes à determinação ou fixação do calendário escolar.</observacoes>
+    </row>
+    <row>
+        <id>385</id>
+        <symbol>454</symbol>
+        <assunto> </assunto>
+        <observacoes>Conselhos de classe,Incluem-se relatórios, pareceres da avaliação da aprendizagem e atas.</observacoes>
+    </row>
+    <row>
+        <id>386</id>
+        <symbol>455</symbol>
+        <assunto> </assunto>
+        <observacoes>Colação de grau. Formatura,Incluem-se documentos referentes à organização da formatura e da solenidade de imposição ou colação de grau, lista de formandos e exemplar do convite, bem como o requerimento para colação de grau.</observacoes>
+    </row>
+    <row>
+        <id>387</id>
+        <symbol>455.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Termo ou ata de colação de grau</observacoes>
+    </row>
+    <row>
+        <id>388</id>
+        <symbol>456</symbol>
+        <assunto> </assunto>
+        <observacoes>Vida escolar dos alunos do ensino técnico</observacoes>
+    </row>
+    <row>
+        <id>389</id>
+        <symbol>456.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Ingresso</observacoes>
+    </row>
+    <row>
+        <id>390</id>
+        <symbol>456.11</symbol>
+        <assunto> </assunto>
+        <observacoes>Processo de seleção,Nas subdivisões deste descritor classificam-se documentos referentes a cada etapa do processo de seleção.</observacoes>
+    </row>
+    <row>
+        <id>391</id>
+        <symbol>456.111</symbol>
+        <assunto> </assunto>
+        <observacoes>Planejamento. Orientações,Incluem-se estudos, propostas, programas, editais, exemplares únicos de prova (cadernos de provas) gabaritos (cartões-resposta e cartões do avaliador) e critérios de correção das provas.</observacoes>
+    </row>
+    <row>
+        <id>392</id>
+        <symbol>456.112</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrições,Incluem-se fichas de inscrição, questionário socioeconômico, solicitação de isenção de pagamento da taxa de inscrição, confirmação ou correção de dados cadastrais e estatística da relação candidato/vaga.</observacoes>
+    </row>
+    <row>
+        <id>393</id>
+        <symbol>456.113</symbol>
+        <assunto> </assunto>
+        <observacoes>Controle de aplicação de provas,Incluem-se frequência do candidato, relação de candidatos ausentes, inscrições extraviadas, termo de abertura de envelope e ata de sala.</observacoes>
+    </row>
+    <row>
+        <id>394</id>
+        <symbol>456.114</symbol>
+        <assunto> </assunto>
+        <observacoes>Correção de provas,Incluem-se cadernos de prova utilizados e folhas de resposta.</observacoes>
+    </row>
+    <row>
+        <id>395</id>
+        <symbol>456.115</symbol>
+        <assunto> </assunto>
+        <observacoes>Recursos,Incluem-se documentos referentes à argumentação do candidato contra os instrumentos de avaliação, aos relatórios de estatística e às respostas aos recursos.</observacoes>
+    </row>
+    <row>
+        <id>396</id>
+        <symbol>456.116</symbol>
+        <assunto> </assunto>
+        <observacoes>Resultados,Incluem-se documentos referentes aos resultados finais do processo de seleção como listagens de apuração, listas de classificados e reclassificados.</observacoes>
+    </row>
+    <row>
+        <id>397</id>
+        <symbol>456.12</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência</observacoes>
+    </row>
+    <row>
+        <id>398</id>
+        <symbol>456.121</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência voluntária ou facultativa,Incluem-se documentos referentes ao ingresso fora do processo de seleção como definição de vagas, publicação de editais, controle e aplicação de provas, correção, recursos e resultados.</observacoes>
+    </row>
+    <row>
+        <id>399</id>
+        <symbol>456.122</symbol>
+        <assunto> </assunto>
+        <observacoes>Transferência ex officio,Incluem-se documentos referentes à transferência compulsória ou obrigatória em razão de legislação específica.</observacoes>
+    </row>
+    <row>
+        <id>400</id>
+        <symbol>456.19</symbol>
+        <assunto> </assunto>
+        <observacoes>Outras formas de ingresso,Ordenar por: Mandado judicial, Reintegração</observacoes>
+    </row>
+    <row>
+        <id>401</id>
+        <symbol>456.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro escolar</observacoes>
+    </row>
+    <row>
+        <id>402</id>
+        <symbol>456.21</symbol>
+        <assunto> </assunto>
+        <observacoes>Matrícula,Incluem-se documentos referentes à matrícula regular, bem como aqueles relativos à matrícula dos alunos que participam de programas de intercâmbio e a sua reintegração.</observacoes>
+    </row>
+    <row>
+        <id>403</id>
+        <symbol>456.211</symbol>
+        <assunto> </assunto>
+        <observacoes>Cancelamento de matrícula: por desistência (voluntária) ou por jubilação (compulsória)</observacoes>
+    </row>
+    <row>
+        <id>404</id>
+        <symbol>456.22</symbol>
+        <assunto> </assunto>
+        <observacoes>Isenção de disciplinas. Dispensa de disciplinas. Aproveitamento de estudos</observacoes>
+    </row>
+    <row>
+        <id>405</id>
+        <symbol>456.23</symbol>
+        <assunto> </assunto>
+        <observacoes>Trancamento</observacoes>
+    </row>
+    <row>
+        <id>406</id>
+        <symbol>456.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação escolar</observacoes>
+    </row>
+    <row>
+        <id>407</id>
+        <symbol>456.31</symbol>
+        <assunto> </assunto>
+        <observacoes>Provas. Exames. Trabalhos. Relatórios de estágios,Incluem-se provas, exames, trabalhos e relatórios de estágio, realizados pelos alunos durante o período letivo, bem como os documentos referentes à revisão, retificação das notas e segunda chamada.</observacoes>
+    </row>
+    <row>
+        <id>408</id>
+        <symbol>456.32 Reg</symbol>
+        <assunto> </assunto>
+        <observacoes> </observacoes>
+    </row>
+    <row>
+        <id>409</id>
+        <symbol>456.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Documentação escolar</observacoes>
+    </row>
+    <row>
+        <id>410</id>
+        <symbol>456.41</symbol>
+        <assunto> </assunto>
+        <observacoes>Histórico escolar</observacoes>
+    </row>
+    <row>
+        <id>411</id>
+        <symbol>456.42</symbol>
+        <assunto> </assunto>
+        <observacoes>Emissão de diploma</observacoes>
+    </row>
+    <row>
+        <id>412</id>
+        <symbol>456.421</symbol>
+        <assunto> </assunto>
+        <observacoes>Expedição,Incluem-se documentos referentes à solicitação de expedição do diploma.</observacoes>
+    </row>
+    <row>
+        <id>413</id>
+        <symbol>456.422</symbol>
+        <assunto> </assunto>
+        <observacoes>Registro,Incluem-se documentos referentes aos procedimentos de registro do diploma e ao controle de entrega.</observacoes>
+    </row>
+    <row>
+        <id>414</id>
+        <symbol>456.423</symbol>
+        <assunto> </assunto>
+        <observacoes>Verificação de autenticidade,Incluem-se documentos referentes à solicitação de verificação de autenticidade de diploma pelo Departamento de Polícia Federal (DPF), conselhos profissionais e outros órgãos públicos.</observacoes>
+    </row>
+    <row>
+        <id>415</id>
+        <symbol>456.43</symbol>
+        <assunto> </assunto>
+        <observacoes>Assentamentos individuais dos alunos (Dossiês dos alunos),Incluem-se documentos pessoais (cópias da certidão de nascimento ou casamento, dos documentos de identificação dos responsáveis, da identidade e do CPF, caso possua, do certificado de quitação com o serviço militar, do título de eleitor e do comprovante de quitação eleitoral, se for maior de dezoito anos, do comprovante de residência, do passaporte, se for estrangeiro, e dos atestados de saúde física e mental e de óbito, além de fotografia do aluno e do termo de responsabilidade, caso ele seja legalmente incapaz) e documentação escolar (guia de transferência, certificado de conclusão do ensino fundamental, requerimentos, histórico escolar, ficha individual, registro de diploma, ressalva e boletim escolar).,As Instituições Federais de Ensino Superior (IFES) deverão observar que se encontram relacionados os documentos pessoais e escolares que poderão integrar ou não os assentamentos individuais, dependendo dos procedimentos internos que cada instituição adotar na formação dos dossiês dos alunos.</observacoes>
+    </row>
+    <row>
+        <id>416</id>
+        <symbol>456.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime de exercício domiciliar,Incluem-se documentos referentes à aluna gestante e ao aluno portador de afecções, infecções e traumatismos.</observacoes>
+    </row>
+    <row>
+        <id>417</id>
+        <symbol>456.6</symbol>
+        <assunto> </assunto>
+        <observacoes>Monitorias. Estágios não obrigatórios. Programas de iniciação tecnológica,Incluem-se documentos referentes à seleção, encaminhamento, acompanhamento, frequência e avaliação dos alunos nas monitorias, aos estágios não obrigatórios e programas de iniciação tecnológica como a ficha de avaliação de desempenho, relatórios, termos de compromisso e de desligamento ou rescisão.</observacoes>
+    </row>
+    <row>
+        <id>418</id>
+        <symbol>456.7</symbol>
+        <assunto> </assunto>
+        <observacoes>Regime disciplinar dos alunos: penalidades (advertência ou repreensão, suspensão e expulsão)</observacoes>
+    </row>
+    <row>
+        <id>419</id>
+        <symbol>490</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à educação básica e profissional,A classificação de documentos nesta subclasse só deverá ocorrer após apreciação e aprovação pelo Arquivo Nacional.</observacoes>
+    </row>
+    <row>
+        <id>420</id>
+        <symbol>500</symbol>
+        <assunto> </assunto>
+        <observacoes>ASSISTÊNCIA ESTUDANTIL</observacoes>
+    </row>
+    <row>
+        <id>421</id>
+        <symbol>510</symbol>
+        <assunto> </assunto>
+        <observacoes>Normatização. Regulamentação,Incluem-se documentos referentes à concepção, organização e desenvolvimento das ações de assistência estudantil.</observacoes>
+    </row>
+    <row>
+        <id>422</id>
+        <symbol>520</symbol>
+        <assunto> </assunto>
+        <observacoes>Programas, convênios e projetos de concessão de benefícios e auxílios aos alunos,Nas subdivisões deste descritor classificam-se documentos referentes às atividades desenvolvidas em decorrência dos programas, convênios e projetos de concessão de benefícios e auxílios de acordo com o Programa Nacional de Assistência Estudantil (PNAES), em consonância com as especificidades de cada uma das Instituições Federais de Ensino Superior (IFES), bem como aqueles referentes às ações de concepção mais ampla, relacionadas à assistência estudantil e ao desenvolvimento de atividades de ensino, pesquisa e extensão.</observacoes>
+    </row>
+    <row>
+        <id>423</id>
+        <symbol>521</symbol>
+        <assunto> </assunto>
+        <observacoes>Moradia estudantil. Moradia universitária</observacoes>
+    </row>
+    <row>
+        <id>424</id>
+        <symbol>521.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de moradia estudantil (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>425</id>
+        <symbol>521.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso ou de ocupação e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>426</id>
+        <symbol>521.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>427</id>
+        <symbol>522</symbol>
+        <assunto> </assunto>
+        <observacoes>Alimentação</observacoes>
+    </row>
+    <row>
+        <id>428</id>
+        <symbol>522.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de alimentação (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>429</id>
+        <symbol>522.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>430</id>
+        <symbol>522.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>431</id>
+        <symbol>523</symbol>
+        <assunto> </assunto>
+        <observacoes>Transporte</observacoes>
+    </row>
+    <row>
+        <id>432</id>
+        <symbol>523.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de transporte (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>433</id>
+        <symbol>523.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>434</id>
+        <symbol>523.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>435</id>
+        <symbol>524</symbol>
+        <assunto> </assunto>
+        <observacoes>Assistência à saúde física e mental (inclusive rede conveniada)</observacoes>
+    </row>
+    <row>
+        <id>436</id>
+        <symbol>524.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de assistência à saúde física e mental (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>437</id>
+        <symbol>524.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício e encaminhamento para atendimento médico.</observacoes>
+    </row>
+    <row>
+        <id>438</id>
+        <symbol>524.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes da assistência médica prestada pela própria instituição e pela rede conveniada como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>439</id>
+        <symbol>525</symbol>
+        <assunto> </assunto>
+        <observacoes>Inclusão sócio-educacional e digital</observacoes>
+    </row>
+    <row>
+        <id>440</id>
+        <symbol>525.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de inclusão sócio-educacional e digital (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>441</id>
+        <symbol>525.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>442</id>
+        <symbol>525.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>443</id>
+        <symbol>526</symbol>
+        <assunto> </assunto>
+        <observacoes>Cultura. Esporte</observacoes>
+    </row>
+    <row>
+        <id>444</id>
+        <symbol>526.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa cultural e esportivo (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>445</id>
+        <symbol>526.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>446</id>
+        <symbol>526.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes dos programas como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>447</id>
+        <symbol>527</symbol>
+        <assunto> </assunto>
+        <observacoes>Creche</observacoes>
+    </row>
+    <row>
+        <id>448</id>
+        <symbol>527.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de creche (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>449</id>
+        <symbol>527.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>450</id>
+        <symbol>527.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>451</id>
+        <symbol>528</symbol>
+        <assunto> </assunto>
+        <observacoes>Apoio pedagógico</observacoes>
+    </row>
+    <row>
+        <id>452</id>
+        <symbol>528.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento do programa de apoio pedagógico (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>453</id>
+        <symbol>528.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição, ao estabelecimento de níveis ou categorias de usuários do benefício e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>454</id>
+        <symbol>528.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>455</id>
+        <symbol>529</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes a programas, convênios e projetos de concessão de benefícios e auxílios aos alunos.</observacoes>
+    </row>
+    <row>
+        <id>456</id>
+        <symbol>529.1</symbol>
+        <assunto> </assunto>
+        <observacoes>Atendimento aos portadores de necessidades especiais,Incluem-se documentos referentes aos programas, convênios e projetos elaborados e desenvolvidos para o fornecimento de condições básicas para o atendimento aos portadores de necessidades especiais como deficiência motora, deficiência visual (cegos ou com baixa visão), deficiência auditiva, Transtorno de Asperger (transtorno invasivo de desenvolvimento), transtorno do déficit de atenção e hiperatividade, dislexia (transtorno de aprendizagem), altas habilidades e superdotado.</observacoes>
+    </row>
+    <row>
+        <id>457</id>
+        <symbol>529.2</symbol>
+        <assunto> </assunto>
+        <observacoes>Auxílio para participação e realização de eventos,Incluem-se documentos referentes ao fornecimento de ajuda de custo para a participação e realização de eventos.</observacoes>
+    </row>
+    <row>
+        <id>458</id>
+        <symbol>529.3</symbol>
+        <assunto> </assunto>
+        <observacoes>Isenção de taxas acadêmicas,Incluem-se documentos referentes à isenção do pagamento da taxa de matrícula e de outras taxas acadêmicas.</observacoes>
+    </row>
+    <row>
+        <id>459</id>
+        <symbol>529.4</symbol>
+        <assunto> </assunto>
+        <observacoes>Concessão de material didático,Incluem-se documentos referentes ao fornecimento de material didático como livros, apostilas e cópias de textos.</observacoes>
+    </row>
+    <row>
+        <id>460</id>
+        <symbol>529.5</symbol>
+        <assunto> </assunto>
+        <observacoes>Bolsa Auxílio,Nas subdivisões deste descritor classificam-se os documentos referentes à concessão de auxílio pecuniário.</observacoes>
+    </row>
+    <row>
+        <id>461</id>
+        <symbol>529.51</symbol>
+        <assunto> </assunto>
+        <observacoes>Publicação. Divulgação,Incluem-se documentos referentes ao lançamento da Bolsa Auxílio (editais), à divulgação das vagas e dos critérios de seleção.</observacoes>
+    </row>
+    <row>
+        <id>462</id>
+        <symbol>529.52</symbol>
+        <assunto> </assunto>
+        <observacoes>Inscrição. Seleção. Admissão. Renovação,Incluem-se documentos referentes à inscrição e à avaliação socioeconômica do candidato, comprovante de vínculo (matrícula), fotografia do aluno, declaração com visto da coordenação do curso, termo de compromisso e as listas de atualização de beneficiados e de renovação do benefício.</observacoes>
+    </row>
+    <row>
+        <id>463</id>
+        <symbol>529.53</symbol>
+        <assunto> </assunto>
+        <observacoes>Avaliação,Incluem-se documentos referentes às avaliações periódicas e permanentes do programa como os laudos técnicos, o estabelecimento de indicadores, os estudos de ofertas e demandas e os relatórios parciais e finais.</observacoes>
+    </row>
+    <row>
+        <id>464</id>
+        <symbol>590</symbol>
+        <assunto> </assunto>
+        <observacoes>Outros assuntos referentes à assistência estudantil,A classificação de documentos nesta subclasse só deverá ocorrer após apreciação e aprovação pelo Arquivo Nacional.</observacoes>
+    </row>
+</ROOT>
+
